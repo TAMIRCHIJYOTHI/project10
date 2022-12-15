@@ -26,11 +26,10 @@ This is a web based application developed for health related telugu based websit
 
 ## Screenshots
 
- 
+ ![HOME10](https://user-images.githubusercontent.com/116431912/207775131-3d0eed56-4137-4352-b4ab-32c1144d7913.jpg)
 
-![HOME10](https://user-images.githubusercontent.com/116431912/207775131-3d0eed56-4137-4352-b4ab-32c1144d7913.jpg)
+   ![HEALTHBOT10](https://user-images.githubusercontent.com/116431912/207776121-33d64f3a-3410-4531-9022-3fb9d9929c3f.jpg)
 
-   
 
 ### About Us -
 ![ABOUT10](https://user-images.githubusercontent.com/116431912/207775102-e2a23b22-51e4-4525-b918-7cfeddeba145.jpg)
@@ -42,9 +41,6 @@ This is a web based application developed for health related telugu based websit
 
 
 ### Privacy!
-
-[HEALTHBOT10](https://user-images.githubusercontent.com/116431912/207775237-bcdf2f84-2e64-46f2-bdf5-d7f588fe7cb4.jpg)
- policy -
 
 ![HEALTHBOT11](https://user-images.githubusercontent.com/116431912/207775219-aa6221e7-472f-4893-a5f0-569a0f8c6bdd.jpg)
 
