@@ -7,7 +7,7 @@ This is a web based application developed for health related telugu based websit
 
 
 **Project Link** - https://tamirchijyothi.github.io/project10/
-**Project Demo Video Link**-
+**Project Demo Video Link**- https://youtu.be/aAXDmVNdjC4
 
 **AZURE Technologies Used For Project**
 
