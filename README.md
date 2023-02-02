@@ -25,7 +25,7 @@ This is a web based application developed for health related telugu based websit
 - Included the feedback Survey form to increase the scope of improvement 
 
 ## Screenshots
-
+![MICROSOFT AZURE10](https://user-images.githubusercontent.com/116431912/207775175-9b47aa49-e1ff-4a46-a828-afc31159f565.jpg)
  ![HOME10](https://user-images.githubusercontent.com/116431912/207775131-3d0eed56-4137-4352-b4ab-32c1144d7913.jpg)
 
    ![HEALTHBOT10](https://user-images.githubusercontent.com/116431912/207776121-33d64f3a-3410-4531-9022-3fb9d9929c3f.jpg)
@@ -35,7 +35,7 @@ This is a web based application developed for health related telugu based websit
 ![ABOUT10](https://user-images.githubusercontent.com/116431912/207775102-e2a23b22-51e4-4525-b918-7cfeddeba145.jpg)
 
 
-![MICROSOFT AZURE10](https://user-images.githubusercontent.com/116431912/207775175-9b47aa49-e1ff-4a46-a828-afc31159f565.jpg)
+
 ![GITHUB10](https://user-images.githubusercontent.com/116431912/207775193-b134ac8e-47d9-43a9-8782-ca163dba9eca.jpg)
 
 
