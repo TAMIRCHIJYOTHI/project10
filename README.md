@@ -28,12 +28,12 @@ This is a web based application developed for health related telugu based websit
 ![static web apps](https://user-images.githubusercontent.com/116431912/216251016-d0826d81-ba16-4b45-866d-b497f8b94ef0.jpg)
 
 ![chat bot](https://user-images.githubusercontent.com/116431912/216251291-bf3daa13-200c-4cac-b1e1-d889d64b6945.jpg)
-
+![HEALTHBOT10](https://user-images.githubusercontent.com/116431912/207776121-33d64f3a-3410-4531-9022-3fb9d9929c3f.jpg)
 
 ![MICROSOFT AZURE10](https://user-images.githubusercontent.com/116431912/207775175-9b47aa49-e1ff-4a46-a828-afc31159f565.jpg)
  ![HOME10](https://user-images.githubusercontent.com/116431912/207775131-3d0eed56-4137-4352-b4ab-32c1144d7913.jpg)
 
-   ![HEALTHBOT10](https://user-images.githubusercontent.com/116431912/207776121-33d64f3a-3410-4531-9022-3fb9d9929c3f.jpg)
+   
 
 
 ### About Us -
