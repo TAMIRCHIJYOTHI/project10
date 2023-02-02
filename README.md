@@ -24,10 +24,11 @@ This is a web based application developed for health related telugu based websit
 - User can know about health information through this website.
 - Included the feedback Survey form to increase the scope of improvement 
 
-## Screenshots!
+## Screenshots
 ![static web apps](https://user-images.githubusercontent.com/116431912/216251016-d0826d81-ba16-4b45-866d-b497f8b94ef0.jpg)
 
-[chat bot](https://user-images.githubusercontent.com/116431912/216250967-dc7e8eb1-04a4-4627-8b85-e405601d4038.jpg)
+![chat bot](https://user-images.githubusercontent.com/116431912/216251291-bf3daa13-200c-4cac-b1e1-d889d64b6945.jpg)
+
 
 ![MICROSOFT AZURE10](https://user-images.githubusercontent.com/116431912/207775175-9b47aa49-e1ff-4a46-a828-afc31159f565.jpg)
  ![HOME10](https://user-images.githubusercontent.com/116431912/207775131-3d0eed56-4137-4352-b4ab-32c1144d7913.jpg)
